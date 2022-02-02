@@ -12,11 +12,9 @@ module.exports = {
         myFont: ['Inter'],
       },
       colors: {
-        beize: '#3E3E3E',
-        vert: '#34D399',
-        vertClair: '#10B981',
+        vert: '#00FF00',
         white: '#ffffff',
-        black: '#000000',
+        bleu: '#32A3FF',
         noir: '#111827',
       },
     },

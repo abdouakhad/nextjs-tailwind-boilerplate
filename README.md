@@ -15,3 +15,7 @@ npm run dev
 # or
 yarn dev
 ```
+
+Pages
+! [] (./public/images/page1.png)
+! [] (./public/images/page2.png)

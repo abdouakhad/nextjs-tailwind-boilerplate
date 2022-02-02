@@ -1,7 +1,15 @@
 import React from 'react'
-
-const Home = () => {
-  return <div className='text-3xl '>Hello World</div>
+import HomePage from '../components/Home'
+import Features from '../components/Features'
+import Pricing from '../components/Pricing'
+import Faq from '../components/Faq'
+export default function Pages() {
+  return (
+    <>
+      <HomePage />
+      <Features />
+      <Pricing />
+      <Faq />
+    </>
+  )
 }
-
-export default Home
